@@ -5,7 +5,7 @@ An Example of Creating a Orchard Core Content Management System Application usin
 
 ## YouTube Video
 
-![Getting Started with Orchard Core CMS and Visual Studio](https://youtu.be/3pPyNKJo1iU)
+[Getting Started with Orchard Core CMS and Visual Studio](https://youtu.be/3pPyNKJo1iU)
 
 ## PDF Version of the Documentation
 [Getting-Started-with-Orchard-Core.pdf](https://github.com/orchardcmsnet/MyOrchardCoreCMS/files/4000778/Getting-Started-with-Orchard-Core.pdf)
