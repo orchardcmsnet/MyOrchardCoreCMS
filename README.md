@@ -167,4 +167,4 @@ With just a new few lines of code and some configuration, it is easy to create a
 
 ## GitHub
 
-The complete source code is located [here]https://github.com/orchardcmsnet/MyOrchardCoreCMS).
+The complete source code is located [here](https://github.com/orchardcmsnet/MyOrchardCoreCMS).
