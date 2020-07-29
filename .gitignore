@@ -117,3 +117,9 @@ src/.vs/config/applicationhost.config
 
 # App Data
 App_Data/
+
+# Localization
+Localization/
+
+# Orchard
+is-cache/
