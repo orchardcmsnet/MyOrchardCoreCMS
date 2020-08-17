@@ -3,11 +3,7 @@ An Example of Creating a Orchard Core Content Management System Application usin
 
 
 ## YouTube Video
-[![OrchardSkillsYouTubeThumbNailCICD](https://www.youtube-nocookie.com/embed/7F00sYlhtno)]https://youtu.be/3pPyNKJo1iU)
-
-
-## PDF Version of the Documentation
-[Getting-Started-with-Orchard-Core.pdf](https://github.com/orchardcmsnet/MyOrchardCoreCMS/files/4000778/Getting-Started-with-Orchard-Core.pdf)
+[![OrchardSkillsYouTubeThumbNailStart](https://user-images.githubusercontent.com/58791170/75266296-5f6b9200-57af-11ea-9fdf-985257233d5c.png)](https://youtu.be/3pPyNKJo1iU)
 
 # Introduction
 
