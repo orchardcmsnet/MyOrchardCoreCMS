@@ -3,8 +3,7 @@ An Example of Creating a Orchard Core Content Management System Application usin
 
 
 ## YouTube Video
-<iframe width="1200" height="628" src="https://www.youtube-nocookie.com/embed/7F00sYlhtno" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![OrchardSkillsYouTubeThumbNailCICD](https://www.youtube-nocookie.com/embed/7F00sYlhtno)]https://youtu.be/3pPyNKJo1iU)
 
 
 ## PDF Version of the Documentation
