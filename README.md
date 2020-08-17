@@ -2,7 +2,7 @@
 An Example of Creating a Orchard Core Content Management System Application using NuGet packages with Visual Studio
 
 
-## YouTube Video
+## [YouTube Video](https://youtu.be/3pPyNKJo1iU)
 [![OrchardSkillsYouTubeThumbNailStart](https://user-images.githubusercontent.com/58791170/75266296-5f6b9200-57af-11ea-9fdf-985257233d5c.png)](https://youtu.be/3pPyNKJo1iU)
 
 # Introduction
